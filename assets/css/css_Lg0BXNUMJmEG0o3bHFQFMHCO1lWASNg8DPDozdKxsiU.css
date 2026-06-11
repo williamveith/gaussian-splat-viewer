@@ -892,7 +892,7 @@
 }
 
 .mt-3 {
-    margin-top: 1rem !important;
+    margin-top: 0rem !important;
 }
 
 .mt-4 {
@@ -944,7 +944,7 @@
 }
 
 .mb-2 {
-    margin-bottom: 0.5rem !important;
+    margin-bottom: 0rem !important;
 }
 
 .mb-3 {
@@ -1290,7 +1290,7 @@
 }
 
 .pb-4 {
-    padding-bottom: 1.5rem !important;
+    padding-bottom: 0rem !important;
 }
 
 .pb-5 {

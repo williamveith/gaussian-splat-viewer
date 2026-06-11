@@ -1151,20 +1151,18 @@
             <span data-field="name"></span>
           </h4>
           <div class="instrument-listing-item__location mb-2">
-            <div class="pt-2">
+            <div class="pt-2" style="padding-top: 0 !important;padding-bottom: 0.5rem;">
               <span class="visually-hidden">SKU:</span>
-              <span data-field="sku"></span>
+              <span data-field="sku" style="font-style: italic;padding-top: 0;font-size: 70%;"></span>
             </div>
-            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
-              class="bi bi-geo-alt-fill me-1" viewBox="0 0 16 16" aria-hidden="true" focusable="false">
-              <path d="M8 16s6-5.686 6-10A6 6 0 1 0 2 6c0 4.314 6 10 6 10m0-7a3 3 0 1 1 0-6 3 3 0 0 1 0 6"></path>
-            </svg>
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+                class="bi bi-geo-alt-fill me-1" viewBox="0 0 16 16" aria-hidden="true" focusable="false">
+                <path d="M8 16s6-5.686 6-10A6 6 0 1 0 2 6c0 4.314 6 10 6 10m0-7a3 3 0 1 1 0-6 3 3 0 0 1 0 6"></path>
+              </svg>
             <span class="visually-hidden">Location:</span>
-            <span data-field="location"></span>
-            <div class="pt-2">
-              <span class="visually-hidden">Category:</span>
-              <i data-field="category"></i>
-            </div>
+            <span data-field="location" style="padding-right: 0.75rem;"></span>
+            <span class="visually-hidden">Category:</span>
+            <span><i data-field="category"></i></span>
           </div>
         </div>
       </article>
