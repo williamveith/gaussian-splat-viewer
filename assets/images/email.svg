@@ -1,0 +1,10 @@
+<svg id="email" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="16" viewBox="0 0 20 16">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="ic_email_24px" d="M18,16H2a2,2,0,0,1-2-2V2A2,2,0,0,1,2,0H18a2,2,0,0,1,2,2V14A2,2,0,0,1,18,16ZM2,3.87V14H18V3.87L10,9.2ZM2.8,2,10,6.8,17.2,2Z" transform="translate(0 0)" fill="rgba(28,32,44,0.8)"/>
+    </clipPath>
+  </defs>
+  <g id="Group_5" data-name="Group 5" transform="translate(0 0)">
+    <path id="ic_email_24px-2" data-name="ic_email_24px" d="M18,16H2a2,2,0,0,1-2-2V2A2,2,0,0,1,2,0H18a2,2,0,0,1,2,2V14A2,2,0,0,1,18,16ZM2,3.87V14H18V3.87L10,9.2ZM2.8,2,10,6.8,17.2,2Z" transform="translate(0 0)" fill="rgba(28,32,44,0.8)"/>
+  </g>
+</svg>

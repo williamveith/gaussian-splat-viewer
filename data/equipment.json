@@ -1,0 +1,693 @@
+[
+      {
+        "sku": "EQU-LITH-EBLW-03",
+        "name": "JEOL 8100",
+        "location": "MER 1.700A",
+        "category": "Electron Beam Lithography"
+      },
+      {
+        "sku": "EQU-WET-ENT-00",
+        "name": "Hood - Fab Entry",
+        "location": "MER 1.702",
+        "category": "Hood"
+      },
+      {
+        "sku": "EQU-DEP-ALD-01",
+        "name": "Savannah ALD",
+        "location": "MER 1.704A",
+        "category": "Deposition"
+      },
+      {
+        "sku": "EQU-DEP-PECV-01",
+        "name": "PECVD 770 a-Si Doped",
+        "location": "MER 1.704A",
+        "category": "Deposition"
+      },
+      {
+        "sku": "EQU-FAB-DRIL-00",
+        "name": "Drill Press - Strand",
+        "location": "MER 1.712",
+        "category": "Fabrication"
+      },
+      {
+        "sku": "EQU-FAB-DRIL-01",
+        "name": "Drill Press - JPW",
+        "location": "MER 1.712",
+        "category": "Fabrication"
+      },
+      {
+        "sku": "EQU-FAB-LATH-00",
+        "name": "Lathe - Hardinge",
+        "location": "MER 1.712",
+        "category": "Fabrication"
+      },
+      {
+        "sku": "EQU-FAB-MILL-00",
+        "name": "Milling - Webb",
+        "location": "MER 1.712",
+        "category": "Fabrication"
+      },
+      {
+        "sku": "EQU-FAB-MILL-01",
+        "name": "Milling - Bridgeport",
+        "location": "MER 1.712",
+        "category": "Fabrication"
+      },
+      {
+        "sku": "EQU-FAB-SAW-00",
+        "name": "Band Saw",
+        "location": "MER 1.712",
+        "category": "Fabrication"
+      },
+      {
+        "sku": "EQU-DEP-PARY-00",
+        "name": "Parylene Coater",
+        "location": "MER 1.720",
+        "category": "Deposition"
+      },
+      {
+        "sku": "EQU-LITH-ASHR-00",
+        "name": "TePla Asher",
+        "location": "MER 1.720",
+        "category": "Photolithography"
+      },
+      {
+        "sku": "EQU-LITH-HMDS-00",
+        "name": "HMDS Oven",
+        "location": "MER 1.720",
+        "category": "Photolithography"
+      },
+      {
+        "sku": "EQU-LITH-MA8-00",
+        "name": "Karl SUSS MA8",
+        "location": "MER 1.720",
+        "category": "Photolithography"
+      },
+      {
+        "sku": "EQU-WET-SPIN-00",
+        "name": "Spinner - Brewer",
+        "location": "MER 1.720",
+        "category": "Hood"
+      },
+      {
+        "sku": "EQU-WET-SPIN-10",
+        "name": "Spinner - L10",
+        "location": "MER 1.720",
+        "category": "Hood"
+      },
+      {
+        "sku": "EQU-LITH-EBLW-02",
+        "name": "Raith 150 Two",
+        "location": "MER 1.720A",
+        "category": "Electron Beam Lithography"
+      },
+      {
+        "sku": "EQU-DEP-MOCV-00",
+        "name": "Aixtron MOCVD",
+        "location": "MER 1.722",
+        "category": "Deposition"
+      },
+      {
+        "sku": "EQU-MET-SEM-01",
+        "name": "Zeiss Neon 40",
+        "location": "MER 1.722",
+        "category": "Metrology"
+      },
+      {
+        "sku": "EQU-LITH-MASK-01",
+        "name": "EVG Mask Aligner",
+        "location": "MER 1.728",
+        "category": "Photolithography"
+      },
+      {
+        "sku": "EQU-LITH-MASK-02",
+        "name": "Karl SUSS MJB4",
+        "location": "MER 1.728",
+        "category": "Photolithography"
+      },
+      {
+        "sku": "EQU-LITH-MLA-00",
+        "name": "MLA150",
+        "location": "MER 1.728",
+        "category": "Photolithography"
+      },
+      {
+        "sku": "EQU-LITH-WPRS-00",
+        "name": "Wafer Press",
+        "location": "MER 1.728",
+        "category": "Photolithography"
+      },
+      {
+        "sku": "EQU-PAC-WBON-00",
+        "name": "Wafer Bonder",
+        "location": "MER 1.728",
+        "category": "Packaging"
+      },
+      {
+        "sku": "EQU-WET-AHOD-19",
+        "name": "Acid Hood - J19",
+        "location": "MER 1.728",
+        "category": "Hood"
+      },
+      {
+        "sku": "EQU-WET-SHOD-24",
+        "name": "Solvent Hood - J24",
+        "location": "MER 1.728",
+        "category": "Hood"
+      },
+      {
+        "sku": "EQU-WET-SPIN-21",
+        "name": "Spinner - J21",
+        "location": "MER 1.728",
+        "category": "Hood"
+      },
+      {
+        "sku": "EQU-WET-SPIN-23",
+        "name": "Spinner - J23",
+        "location": "MER 1.728",
+        "category": "Hood"
+      },
+      {
+        "sku": "EQU-MET-4PNT-00",
+        "name": "Jandel RM3000",
+        "location": "MER 1.730",
+        "category": "Metrology"
+      },
+      {
+        "sku": "EQU-MET-AFM-01",
+        "name": "AFM #1",
+        "location": "MER 1.730",
+        "category": "Metrology"
+      },
+      {
+        "sku": "EQU-MET-AFM-02",
+        "name": "AFM #2",
+        "location": "MER 1.730",
+        "category": "Metrology"
+      },
+      {
+        "sku": "EQU-MET-ELPS-02",
+        "name": "Woollam RC2",
+        "location": "MER 1.730",
+        "category": "Metrology"
+      },
+      {
+        "sku": "EQU-MET-F54-00",
+        "name": "Filmetrics F54",
+        "location": "MER 1.730",
+        "category": "Metrology"
+      },
+      {
+        "sku": "EQU-MET-LMSP-00",
+        "name": "Laser Microscope",
+        "location": "MER 1.730",
+        "category": "Metrology"
+      },
+      {
+        "sku": "EQU-MET-SPEC-00",
+        "name": "Nanospec AFT",
+        "location": "MER 1.730",
+        "category": "Metrology"
+      },
+      {
+        "sku": "EQU-MET-VHX-00",
+        "name": "Keyence Microscope",
+        "location": "MER 1.730",
+        "category": "Metrology"
+      },
+      {
+        "sku": "EQU-LITH-EBLW-01",
+        "name": "Raith eLINE",
+        "location": "MER 1.730A",
+        "category": "Electron Beam Lithography"
+      },
+      {
+        "sku": "EQU-MET-SCOA-00",
+        "name": "SEM Sample Sputter",
+        "location": "MER 1.730A",
+        "category": "Metrology"
+      },
+      {
+        "sku": "EQU-MET-SEM-00",
+        "name": "ZEISS Gemini 460",
+        "location": "MER 1.730A",
+        "category": "Metrology"
+      },
+      {
+        "sku": "EQU-DEP-EBEV-01",
+        "name": "KJL E-Beam",
+        "location": "MER 1.736",
+        "category": "Deposition"
+      },
+      {
+        "sku": "EQU-DEP-SPUT-01",
+        "name": "Angstrom UHV Sputter",
+        "location": "MER 1.736",
+        "category": "Deposition"
+      },
+      {
+        "sku": "EQU-DEP-SPUT-02",
+        "name": "UNIVEX450 Al/Ti",
+        "location": "MER 1.736",
+        "category": "Deposition"
+      },
+      {
+        "sku": "EQU-DEP-SPUT-03",
+        "name": "KJL - Sputter DC/RF",
+        "location": "MER 1.736",
+        "category": "Deposition"
+      },
+      {
+        "sku": "EQU-HEAT-FURN-00",
+        "name": "Furnace (Sintering)",
+        "location": "MER 1.736",
+        "category": "Thermal"
+      },
+      {
+        "sku": "EQU-WET-AHOD-12",
+        "name": "Acid Hood - G12",
+        "location": "MER 1.736",
+        "category": "Hood"
+      },
+      {
+        "sku": "EQU-WET-AHOD-13",
+        "name": "Acid Hood - G14",
+        "location": "MER 1.736",
+        "category": "Hood"
+      },
+      {
+        "sku": "EQU-WET-SHOD-08",
+        "name": "Solvent Hood - G08",
+        "location": "MER 1.736",
+        "category": "Hood"
+      },
+      {
+        "sku": "EQU-WET-SHOD-11",
+        "name": "Solvent Hood - G11",
+        "location": "MER 1.736",
+        "category": "Hood"
+      },
+      {
+        "sku": "EQU-ETCH-CRIE-03",
+        "name": "Corial210 Etcher - F",
+        "location": "MER 1.738",
+        "category": "Etch"
+      },
+      {
+        "sku": "EQU-ETCH-DSE-01",
+        "name": "Versaline DSE",
+        "location": "MER 1.738",
+        "category": "Etch"
+      },
+      {
+        "sku": "EQU-ETCH-DSE-02",
+        "name": "Oxford DSE",
+        "location": "MER 1.738",
+        "category": "Etch"
+      },
+      {
+        "sku": "EQU-ETCH-PTRI-02",
+        "name": "Plasma-Therm 790 #2",
+        "location": "MER 1.738",
+        "category": "Etch"
+      },
+      {
+        "sku": "EQU-ETCH-TALE-00",
+        "name": "Takachi ICP ALE - Cl",
+        "location": "MER 1.738",
+        "category": "Etch"
+      },
+      {
+        "sku": "EQU-WET-AHOD-14",
+        "name": "Acid Hood - H14",
+        "location": "MER 1.738",
+        "category": "Hood"
+      },
+      {
+        "sku": "EQU-WET-AHOD-15",
+        "name": "Acid Hood - H15",
+        "location": "MER 1.738",
+        "category": "Hood"
+      },
+      {
+        "sku": "EQU-WET-KHOD-16",
+        "name": "KOH Hood - H16",
+        "location": "MER 1.738",
+        "category": "Hood"
+      },
+      {
+        "sku": "EQU-WET-KHOD-18",
+        "name": "KOH Hood - H18",
+        "location": "MER 1.738",
+        "category": "Hood"
+      },
+      {
+        "sku": "EQU-WET-SHOD-00",
+        "name": "Solvent Hood - H03",
+        "location": "MER 1.738",
+        "category": "Hood"
+      },
+      {
+        "sku": "EQU-DEP-CHEV-01",
+        "name": "CHA #1",
+        "location": "MER 1.748",
+        "category": "Deposition"
+      },
+      {
+        "sku": "EQU-DEP-CHEV-02",
+        "name": "CHA #2",
+        "location": "MER 1.748",
+        "category": "Deposition"
+      },
+      {
+        "sku": "EQU-DEP-CHEV-03",
+        "name": "CHA #3",
+        "location": "MER 1.748",
+        "category": "Deposition"
+      },
+      {
+        "sku": "EQU-ETCH-CPDR-00",
+        "name": "Critical Point Dryer",
+        "location": "MER 1.748",
+        "category": "Etch"
+      },
+      {
+        "sku": "EQU-ETCH-XACT-00",
+        "name": "Xactix XF2 Etcher",
+        "location": "MER 1.748",
+        "category": "Etch"
+      },
+      {
+        "sku": "EQU-HEAT-RTA-00",
+        "name": "Rapid Thermal Anneal",
+        "location": "MER 1.748",
+        "category": "Thermal"
+      },
+      {
+        "sku": "EQU-MET-OMSC-01",
+        "name": "Optical Microscope 1",
+        "location": "MER 1.748",
+        "category": "Metrology"
+      },
+      {
+        "sku": "EQU-MET-OMSC-02",
+        "name": "Optical Microscope 2",
+        "location": "MER 1.748",
+        "category": "Metrology"
+      },
+      {
+        "sku": "EQU-MET-PROF-00",
+        "name": "Bruker Dektak",
+        "location": "MER 1.748",
+        "category": "Metrology"
+      },
+      {
+        "sku": "EQU-WET-AHOD-02",
+        "name": "Acid Hood - E02",
+        "location": "MER 1.748",
+        "category": "Hood"
+      },
+      {
+        "sku": "EQU-WET-SHOD-05",
+        "name": "Solvent Hood - E05",
+        "location": "MER 1.748",
+        "category": "Hood"
+      },
+      {
+        "sku": "EQU-DEP-PECV-02",
+        "name": "Plasma-Therm 790 #1",
+        "location": "MER 1.750",
+        "category": "Deposition"
+      },
+      {
+        "sku": "EQU-DEP-PECV-03",
+        "name": "PlasmaPro 100",
+        "location": "MER 1.750",
+        "category": "Deposition"
+      },
+      {
+        "sku": "EQU-ETCH-CRIE-01",
+        "name": "Corial360 Etcher - F",
+        "location": "MER 1.750",
+        "category": "Etch"
+      },
+      {
+        "sku": "EQU-ETCH-CRIE-02",
+        "name": "Corial210 Etcher - C",
+        "location": "MER 1.750",
+        "category": "Etch"
+      },
+      {
+        "sku": "EQU-ETCH-OXET-01",
+        "name": "Oxford 80 RIE",
+        "location": "MER 1.750",
+        "category": "Etch"
+      },
+      {
+        "sku": "EQU-ETCH-OXET-02",
+        "name": "Oxford 100 ICP",
+        "location": "MER 1.750",
+        "category": "Etch"
+      },
+      {
+        "sku": "EQU-WET-AHOD-06",
+        "name": "Acid Hood - F06",
+        "location": "MER 1.750",
+        "category": "Hood"
+      },
+      {
+        "sku": "EQU-WET-SHOD-03",
+        "name": "Solvent Hood - F03",
+        "location": "MER 1.750",
+        "category": "Hood"
+      },
+      {
+        "sku": "EQU-DEP-ALD-02",
+        "name": "Fiji ALD",
+        "location": "MER 1.756",
+        "category": "Deposition"
+      },
+      {
+        "sku": "EQU-HEAT-ANL-01",
+        "name": "Anneal (Doped)",
+        "location": "MER 1.756",
+        "category": "Thermal"
+      },
+      {
+        "sku": "EQU-HEAT-ANL-02",
+        "name": "Anneal (Field Oxide)",
+        "location": "MER 1.756",
+        "category": "Thermal"
+      },
+      {
+        "sku": "EQU-HEAT-ANL-03",
+        "name": "Anneal (Gate Oxide)",
+        "location": "MER 1.756",
+        "category": "Thermal"
+      },
+      {
+        "sku": "EQU-HEAT-ANL-04",
+        "name": "Anneal (Undoped)",
+        "location": "MER 1.756",
+        "category": "Thermal"
+      },
+      {
+        "sku": "EQU-HEAT-DIFF-00",
+        "name": "Diff Doping POCl3",
+        "location": "MER 1.756",
+        "category": "Thermal"
+      },
+      {
+        "sku": "EQU-HEAT-LPCV-01",
+        "name": "LPCVD a-Si",
+        "location": "MER 1.756",
+        "category": "Thermal"
+      },
+      {
+        "sku": "EQU-HEAT-LPCV-02",
+        "name": "LPCVD Low Temp Oxide",
+        "location": "MER 1.756",
+        "category": "Thermal"
+      },
+      {
+        "sku": "EQU-HEAT-LPCV-03",
+        "name": "LPCVD Nitride",
+        "location": "MER 1.756",
+        "category": "Thermal"
+      },
+      {
+        "sku": "EQU-HEAT-TYTN-00",
+        "name": "Tytan 3800 Furnaces",
+        "location": "MER 1.756",
+        "category": "Thermal"
+      },
+      {
+        "sku": "EQU-MET-ELPS-01",
+        "name": "Woollam M-2000 DI",
+        "location": "MER 1.756",
+        "category": "Metrology"
+      },
+      {
+        "sku": "EQU-WET-DHOD-11",
+        "name": "Acid Hood - C11",
+        "location": "MER 1.756",
+        "category": "Hood"
+      },
+      {
+        "sku": "EQU-WET-DHOD-14",
+        "name": "Acid Hood - C14",
+        "location": "MER 1.756",
+        "category": "Hood"
+      },
+      {
+        "sku": "EQU-WET-DHOD-16",
+        "name": "Acid Hood - C16",
+        "location": "MER 1.756",
+        "category": "Hood"
+      },
+      {
+        "sku": "EQU-DEP-ALD-03",
+        "name": "Oxford ALD (ASP)",
+        "location": "MER 1.756A",
+        "category": "Deposition"
+      },
+      {
+        "sku": "EQU-DEP-SPUT-04",
+        "name": "KJL - Metals/Dielec",
+        "location": "MER 1.756A",
+        "category": "Deposition"
+      },
+      {
+        "sku": "EQU-DEP-SPUT-05",
+        "name": "Evatec - AlScN",
+        "location": "MER 1.756A",
+        "category": "Deposition"
+      },
+      {
+        "sku": "EQU-ETCH-IONM-00",
+        "name": "AJA Ion Mill",
+        "location": "MER 1.756A",
+        "category": "Etch"
+      },
+      {
+        "sku": "EQU-HEAT-RTP-00",
+        "name": "AET Thermal RX6",
+        "location": "MER 1.756A",
+        "category": "Thermal"
+      },
+      {
+        "sku": "EQU-HEAT-UVOZ-00",
+        "name": "UV Ozone Cleaner",
+        "location": "MER 1.756A",
+        "category": "Thermal"
+      },
+      {
+        "sku": "EQU-HEAT-VOVN-00",
+        "name": "Blue Vacuum Oven",
+        "location": "MER 1.756A",
+        "category": "Thermal"
+      },
+      {
+        "sku": "EQU-MET-ELPS-03",
+        "name": "Woollam IR-VASE",
+        "location": "MER 1.802",
+        "category": "Metrology"
+      },
+      {
+        "sku": "EQU-MET-XRD-01",
+        "name": "XRD Rigaku #1",
+        "location": "MER 1.802",
+        "category": "Metrology"
+      },
+      {
+        "sku": "EQU-MET-XRD-02",
+        "name": "XRD Rigaku #2",
+        "location": "MER 1.802",
+        "category": "Metrology"
+      },
+      {
+        "sku": "EQU-DEP-NIPL-00",
+        "name": "Nickel Plating #1",
+        "location": "MER 2.406",
+        "category": "Deposition"
+      },
+      {
+        "sku": "EQU-DEP-NIPL-01",
+        "name": "Nickel Plating #2",
+        "location": "MER 2.406",
+        "category": "Deposition"
+      },
+      {
+        "sku": "EQU-DEP-NIPL-02",
+        "name": "Nickel Plating #3",
+        "location": "MER 2.406",
+        "category": "Deposition"
+      },
+      {
+        "sku": "EQU-FAB-LASE-00",
+        "name": "Laser Engraver",
+        "location": "MER 2.406",
+        "category": "Fabrication"
+      },
+      {
+        "sku": "EQU-PAC-DICE-00",
+        "name": "Dicing Saw 7900 DUO",
+        "location": "MER 2.406",
+        "category": "Packaging"
+      },
+      {
+        "sku": "EQU-CHAR-PROB-01",
+        "name": "FormFactor ASP200",
+        "location": "MER 2.816",
+        "category": "Characterization"
+      },
+      {
+        "sku": "EQU-CHAR-PROB-02",
+        "name": "Cascade #1",
+        "location": "MER 2.816",
+        "category": "Characterization"
+      },
+      {
+        "sku": "EQU-CHAR-PROB-03",
+        "name": "Lakeshore FWPX",
+        "location": "MER 2.816",
+        "category": "Characterization"
+      },
+      {
+        "sku": "EQU-CHAR-PROB-04",
+        "name": "Cascade #2",
+        "location": "MER 2.818",
+        "category": "Characterization"
+      },
+      {
+        "sku": "EQU-CHAR-HALL-00",
+        "name": "Lakeshore FastHall",
+        "location": "MER 2.820",
+        "category": "Characterization"
+      },
+      {
+        "sku": "EQU-MET-RAM-00",
+        "name": "Raman",
+        "location": "MER 2.820",
+        "category": "Metrology"
+      },
+      {
+        "sku": "EQU-PAC-WBND-01",
+        "name": "Ball Bonder K&S",
+        "location": "MER 2.820",
+        "category": "Packaging"
+      },
+      {
+        "sku": "EQU-PAC-WBND-02",
+        "name": "Wedge Bonder",
+        "location": "MER 2.820",
+        "category": "Packaging"
+      },
+      {
+        "sku": "EQU-PAC-WBND-03",
+        "name": "Ball Bonder",
+        "location": "MER 2.820",
+        "category": "Packaging"
+      }
+    ]
+    
