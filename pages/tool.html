@@ -849,7 +849,9 @@
                     <div class="col-12 col-lg-7">
                     </div>
                     <div class="col-12 col-lg-5">
-                      <div class="instrument-detail-mrc__meta p-3 p-md-4 bg-light border rounded mb-4">
+
+                      <!-- Tool SKU, Location, Catagory -->
+                      <div id="fbsInfo" class="instrument-detail-mrc__meta p-3 p-md-4 bg-light border rounded mb-4">
 
                         <div class="instrument-detail-mrc__tags">
                           <div class="field field--name-field-instrument-tags">
@@ -886,7 +888,7 @@
                       </div>
 
                       <!-- Tool Manufacture, Model, Serial -->
-                      <div class="instrument-detail-mrc__meta p-3 p-md-4 bg-light border rounded mb-4">
+                      <div id="toolInfo" class="instrument-detail-mrc__meta p-3 p-md-4 bg-light border rounded mb-4">
 
                         <div class="instrument-detail-mrc__tags">
                           <div class="field field--name-field-instrument-tags">
@@ -906,6 +908,31 @@
                           <div class="field field--name-field-instrument-tags">
                             <span class="field__label">Serial Number:</span>
                             <span class="field__item" data-tool-serialno></span>
+                          </div>
+                        </div>
+                      </div>
+
+                      <!-- Tool Req, PO, and InventoryNo -->
+                      <div id="financialInfo" class="instrument-detail-mrc__meta p-3 p-md-4 bg-light border rounded mb-4">
+
+                        <div class="instrument-detail-mrc__tags">
+                          <div class="field field--name-field-instrument-tags">
+                            <span class="field__label">Req Number:</span>
+                            <span class="field__item" data-tool-reqno></span>
+                          </div>
+                        </div>
+
+                        <div class="instrument-detail-mrc__tags">
+                          <div class="field field--name-field-instrument-tags">
+                            <span class="field__label">PO Number:</span>
+                            <span class="field__item" data-tool-pono></span>
+                          </div>
+                        </div>
+
+                        <div class="instrument-detail-mrc__tags">
+                          <div class="field field--name-field-instrument-tags">
+                            <span class="field__label">Inventory Number:</span>
+                            <span class="field__item" data-tool-inventoryno></span>
                           </div>
                         </div>
                       </div>
@@ -1227,6 +1254,9 @@
         setText("[data-tool-manufacturer]", tool.manufacturer);
         setText("[data-tool-model]", tool.model);
         setText("[data-tool-serialno]", tool.serialno);
+        setText("[data-tool-reqno]", tool.reqno);
+        setText("[data-tool-pono]", tool.pono);
+        setText("[data-tool-inventoryno]", tool.inventoryno);
 
         setFbsScheduleLink(tool);
 

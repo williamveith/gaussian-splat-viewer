@@ -7,7 +7,10 @@
     "category": "Electron Beam Lithography",
     "manufacturer": "JEOL",
     "model": "JBX-8100FS",
-    "serialno": "SB1360000480048"
+    "serialno": "SB1360000480048",
+    "reqno": "",
+    "pono": "2022C00845",
+    "inventoryno": "A58241"
   },
   {
     "sku": "EQU-WET-ENT-00",
@@ -17,7 +20,10 @@
     "category": "Hood",
     "manufacturer": "",
     "model": "",
-    "serialno": ""
+    "serialno": "",
+    "reqno": "",
+    "pono": "",
+    "inventoryno": ""
   },
   {
     "sku": "EQU-DEP-ALD-01",
@@ -27,7 +33,10 @@
     "category": "Deposition",
     "manufacturer": "Veeco Instruments Inc.",
     "model": "Savannah S200",
-    "serialno": "100363"
+    "serialno": "100363",
+    "reqno": "",
+    "pono": "2006C01905",
+    "inventoryno": "791589"
   },
   {
     "sku": "EQU-DEP-PECV-01",
@@ -37,7 +46,10 @@
     "category": "Deposition",
     "manufacturer": "Plasma-Therm",
     "model": "SLR 720",
-    "serialno": "PTI-76535F"
+    "serialno": "PTI-76535F",
+    "reqno": "",
+    "pono": "",
+    "inventoryno": "883390"
   },
   {
     "sku": "EQU-FAB-DRIL-00",
@@ -47,7 +59,10 @@
     "category": "Fabrication",
     "manufacturer": "Strands Mekaniska Verkstad",
     "model": "24514",
-    "serialno": "90228"
+    "serialno": "90228",
+    "reqno": "",
+    "pono": "4A2849P93A",
+    "inventoryno": "621427"
   },
   {
     "sku": "EQU-FAB-DRIL-01",
@@ -57,7 +72,10 @@
     "category": "Fabrication",
     "manufacturer": "JPW Industries",
     "model": "5816",
-    "serialno": "29372"
+    "serialno": "29372",
+    "reqno": "",
+    "pono": "",
+    "inventoryno": ""
   },
   {
     "sku": "EQU-FAB-LATH-00",
@@ -67,7 +85,10 @@
     "category": "Fabrication",
     "manufacturer": "Hardinge Brothers Inc.",
     "model": "HLV-H",
-    "serialno": "730-14"
+    "serialno": "730-14",
+    "reqno": "",
+    "pono": "1842001",
+    "inventoryno": "621430"
   },
   {
     "sku": "EQU-FAB-MILL-00",
@@ -77,7 +98,10 @@
     "category": "Fabrication",
     "manufacturer": "Webb Machinery Corporation",
     "model": "Webb Champ 3VH",
-    "serialno": "VH-72052427"
+    "serialno": "VH-72052427",
+    "reqno": "",
+    "pono": "",
+    "inventoryno": "621152"
   },
   {
     "sku": "EQU-FAB-MILL-01",
@@ -87,7 +111,10 @@
     "category": "Fabrication",
     "manufacturer": "Bridgeport Machines Inc.",
     "model": "Bridgeport Series 1",
-    "serialno": "12/BR 48462"
+    "serialno": "12/BR 48462",
+    "reqno": "",
+    "pono": "1842001",
+    "inventoryno": "621430"
   },
   {
     "sku": "EQU-FAB-SAW-00",
@@ -97,7 +124,10 @@
     "category": "Fabrication",
     "manufacturer": "DoALL Saws",
     "model": "2013-V",
-    "serialno": "500-93429"
+    "serialno": "500-93429",
+    "reqno": "",
+    "pono": "4A2133P93A",
+    "inventoryno": "621615"
   },
   {
     "sku": "EQU-DEP-PARY-00",
@@ -107,7 +137,10 @@
     "category": "Deposition",
     "manufacturer": "Specialty Coating Systems",
     "model": "PDS 2010",
-    "serialno": "15164013"
+    "serialno": "15164013",
+    "reqno": "",
+    "pono": "2024C01130",
+    "inventoryno": "A84936"
   },
   {
     "sku": "EQU-LITH-ASHR-00",
@@ -117,7 +150,10 @@
     "category": "Photolithography",
     "manufacturer": "PVA TePla",
     "model": "IoN WAVE 10",
-    "serialno": "IoN 5122"
+    "serialno": "IoN 5122",
+    "reqno": "",
+    "pono": "2024C01189",
+    "inventoryno": "A84976"
   },
   {
     "sku": "EQU-LITH-HMDS-00",
@@ -127,7 +163,10 @@
     "category": "Photolithography",
     "manufacturer": "Yield Engineering Systems",
     "model": "YES-3",
-    "serialno": "87608"
+    "serialno": "87608",
+    "reqno": "",
+    "pono": "",
+    "inventoryno": "883286"
   },
   {
     "sku": "EQU-LITH-MA8-00",
@@ -137,7 +176,10 @@
     "category": "Photolithography",
     "manufacturer": "SUSS MicroTec",
     "model": "MA/BA8 Gen 4",
-    "serialno": "MA8BA8GEN4-000151"
+    "serialno": "MA8BA8GEN4-000151",
+    "reqno": "",
+    "pono": "2021C00549",
+    "inventoryno": "A20139"
   },
   {
     "sku": "EQU-WET-SPIN-00",
@@ -147,7 +189,10 @@
     "category": "Hood",
     "manufacturer": "Brewer Science",
     "model": "100CB",
-    "serialno": "2041222"
+    "serialno": "2041222",
+    "reqno": "",
+    "pono": "2004C01751",
+    "inventoryno": "781082"
   },
   {
     "sku": "EQU-WET-SPIN-10",
@@ -157,7 +202,10 @@
     "category": "Hood",
     "manufacturer": "Headway Research Inc.",
     "model": "PWM32",
-    "serialno": "9-22662"
+    "serialno": "9-22662",
+    "reqno": "",
+    "pono": "",
+    "inventoryno": ""
   },
   {
     "sku": "EQU-LITH-EBLW-02",
@@ -167,7 +215,10 @@
     "category": "Electron Beam Lithography",
     "manufacturer": "Raith GmbH",
     "model": "10027",
-    "serialno": "3-001-051"
+    "serialno": "3-001-051",
+    "reqno": "",
+    "pono": "2024C00669",
+    "inventoryno": "A84935"
   },
   {
     "sku": "EQU-DEP-MOCV-00",
@@ -177,7 +228,10 @@
     "category": "Deposition",
     "manufacturer": "Aixtron",
     "model": "CCS FT 3x2 GaN/GaO 1400°C",
-    "serialno": "788655"
+    "serialno": "788655",
+    "reqno": "",
+    "pono": "2021C00893",
+    "inventoryno": "A54926"
   },
   {
     "sku": "EQU-MET-SEM-01",
@@ -187,7 +241,10 @@
     "category": "Metrology",
     "manufacturer": "Zeiss",
     "model": "Neon 40",
-    "serialno": "NE40-3513"
+    "serialno": "NE40-3513",
+    "reqno": "",
+    "pono": "2008C01376",
+    "inventoryno": "816765"
   },
   {
     "sku": "EQU-LITH-MASK-01",
@@ -197,7 +254,10 @@
     "category": "Photolithography",
     "manufacturer": "EV Group",
     "model": "EVG620",
-    "serialno": "S020027"
+    "serialno": "S020027",
+    "reqno": "",
+    "pono": "2002C00829",
+    "inventoryno": "751488"
   },
   {
     "sku": "EQU-LITH-MASK-02",
@@ -207,7 +267,10 @@
     "category": "Photolithography",
     "manufacturer": "SUSS MicroTec",
     "model": "MJB4",
-    "serialno": "MJB4-000186"
+    "serialno": "MJB4-000186",
+    "reqno": "",
+    "pono": "2009C01558",
+    "inventoryno": "843800"
   },
   {
     "sku": "EQU-LITH-MLA-00",
@@ -217,7 +280,10 @@
     "category": "Photolithography",
     "manufacturer": "Heidelberg Instruments",
     "model": "MLA 150",
-    "serialno": "HI 1726"
+    "serialno": "HI 1726",
+    "reqno": "",
+    "pono": "2024C01235",
+    "inventoryno": "A84958"
   },
   {
     "sku": "EQU-LITH-WPRS-00",
@@ -227,7 +293,10 @@
     "category": "Photolithography",
     "manufacturer": "Jackson Precision Press",
     "model": "1015",
-    "serialno": "1435"
+    "serialno": "1435",
+    "reqno": "",
+    "pono": "",
+    "inventoryno": ""
   },
   {
     "sku": "EQU-PAC-WBON-00",
@@ -237,7 +306,10 @@
     "category": "Packaging",
     "manufacturer": "Applied Microengineering Ltd",
     "model": "AML-AWB04",
-    "serialno": "015X"
+    "serialno": "015X",
+    "reqno": "",
+    "pono": "2012C01416",
+    "inventoryno": "854674"
   },
   {
     "sku": "EQU-WET-AHOD-19",
@@ -247,7 +319,10 @@
     "category": "Hood",
     "manufacturer": "",
     "model": "",
-    "serialno": ""
+    "serialno": "",
+    "reqno": "",
+    "pono": "",
+    "inventoryno": ""
   },
   {
     "sku": "EQU-WET-SHOD-24",
@@ -257,7 +332,10 @@
     "category": "Hood",
     "manufacturer": "",
     "model": "",
-    "serialno": ""
+    "serialno": "",
+    "reqno": "",
+    "pono": "",
+    "inventoryno": ""
   },
   {
     "sku": "EQU-WET-SPIN-21",
@@ -267,7 +345,10 @@
     "category": "Hood",
     "manufacturer": "Headway Research Inc.",
     "model": "1-EC101D-R485",
-    "serialno": "60412"
+    "serialno": "60412",
+    "reqno": "",
+    "pono": "",
+    "inventoryno": ""
   },
   {
     "sku": "EQU-WET-SPIN-23",
@@ -277,7 +358,10 @@
     "category": "Hood",
     "manufacturer": "Headway Research Inc.",
     "model": "1-EC101D-CB15",
-    "serialno": "70724"
+    "serialno": "70724",
+    "reqno": "",
+    "pono": "",
+    "inventoryno": ""
   },
   {
     "sku": "EQU-MET-4PNT-00",
@@ -287,7 +371,10 @@
     "category": "Metrology",
     "manufacturer": "Jandel Engineering",
     "model": "RM3000+",
-    "serialno": "RM3000638"
+    "serialno": "RM3000638",
+    "reqno": "",
+    "pono": "2025B00048",
+    "inventoryno": "A84951"
   },
   {
     "sku": "EQU-MET-AFM-01",
@@ -297,7 +384,10 @@
     "category": "Metrology",
     "manufacturer": "Bruker",
     "model": "Dimension Icon",
-    "serialno": "5081252160105060"
+    "serialno": "5081252160105060",
+    "reqno": "",
+    "pono": "2024C00731",
+    "inventoryno": "A84934"
   },
   {
     "sku": "EQU-MET-AFM-02",
@@ -307,7 +397,10 @@
     "category": "Metrology",
     "manufacturer": "Bruker",
     "model": "Dimension Icon",
-    "serialno": "431048I5010"
+    "serialno": "431048I5010",
+    "reqno": "",
+    "pono": "2020C00797",
+    "inventoryno": "A20075"
   },
   {
     "sku": "EQU-MET-ELPS-02",
@@ -317,7 +410,10 @@
     "category": "Metrology",
     "manufacturer": "J.A. Woollam",
     "model": "RC2-U +XNIR",
-    "serialno": "1240052"
+    "serialno": "1240052",
+    "reqno": "",
+    "pono": "2024C01003",
+    "inventoryno": "A92641"
   },
   {
     "sku": "EQU-MET-F54-00",
@@ -327,7 +423,10 @@
     "category": "Metrology",
     "manufacturer": "KLA Corporation",
     "model": "F54-XY-200-UV",
-    "serialno": "24J001"
+    "serialno": "24J001",
+    "reqno": "",
+    "pono": "2024C01473",
+    "inventoryno": "A84960"
   },
   {
     "sku": "EQU-MET-LMSP-00",
@@ -337,7 +436,10 @@
     "category": "Metrology",
     "manufacturer": "Olympus Corporation",
     "model": "OLS40-SU",
-    "serialno": "5A10432"
+    "serialno": "5A10432",
+    "reqno": "",
+    "pono": "2015C01676",
+    "inventoryno": "883400"
   },
   {
     "sku": "EQU-MET-SPEC-00",
@@ -347,7 +449,10 @@
     "category": "Metrology",
     "manufacturer": "Nanometrics",
     "model": "7200-1537",
-    "serialno": "0589-C5425"
+    "serialno": "0589-C5425",
+    "reqno": "",
+    "pono": "2018A14939",
+    "inventoryno": "A20047"
   },
   {
     "sku": "EQU-MET-VHX-00",
@@ -357,7 +462,10 @@
     "category": "Metrology",
     "manufacturer": "Keyence Corporation of America",
     "model": "VHX-7100",
-    "serialno": "1B420100"
+    "serialno": "1B420100",
+    "reqno": "",
+    "pono": "2024C01040",
+    "inventoryno": "A84938"
   },
   {
     "sku": "EQU-LITH-EBLW-01",
@@ -367,7 +475,10 @@
     "category": "Electron Beam Lithography",
     "manufacturer": "Raith GmbH",
     "model": "e-Line Plus",
-    "serialno": "M1CO-0042"
+    "serialno": "M1CO-0042",
+    "reqno": "",
+    "pono": "2018C00244",
+    "inventoryno": "894594"
   },
   {
     "sku": "EQU-MET-SCOA-00",
@@ -377,7 +488,10 @@
     "category": "Metrology",
     "manufacturer": "Quorum Technologies Ltd",
     "model": "K575X",
-    "serialno": "K575X-218"
+    "serialno": "K575X-218",
+    "reqno": "",
+    "pono": "2009C01378",
+    "inventoryno": "833662"
   },
   {
     "sku": "EQU-MET-SEM-00",
@@ -387,7 +501,10 @@
     "category": "Metrology",
     "manufacturer": "Zeiss",
     "model": "GeminiSEM 460",
-    "serialno": "8218010194"
+    "serialno": "8218010194",
+    "reqno": "",
+    "pono": "2024C00631",
+    "inventoryno": "A84950"
   },
   {
     "sku": "EQU-DEP-EBEV-01",
@@ -397,7 +514,10 @@
     "category": "Deposition",
     "manufacturer": "Kurt J. Lesker Company",
     "model": "PVD 200 PRO-Line",
-    "serialno": "PTN109399"
+    "serialno": "PTN109399",
+    "reqno": "",
+    "pono": "2018C00697",
+    "inventoryno": "A20051"
   },
   {
     "sku": "EQU-DEP-SPUT-01",
@@ -407,7 +527,10 @@
     "category": "Deposition",
     "manufacturer": "Angstrom Engineering",
     "model": "Quantum UHV",
-    "serialno": "18073"
+    "serialno": "18073",
+    "reqno": "",
+    "pono": "2024C01000",
+    "inventoryno": "A92634"
   },
   {
     "sku": "EQU-DEP-SPUT-02",
@@ -417,7 +540,10 @@
     "category": "Deposition",
     "manufacturer": "Univex Corporation",
     "model": "Univex 450B",
-    "serialno": "3130318122"
+    "serialno": "3130318122",
+    "reqno": "",
+    "pono": "2010C01470",
+    "inventoryno": "843860"
   },
   {
     "sku": "EQU-DEP-SPUT-03",
@@ -427,7 +553,10 @@
     "category": "Deposition",
     "manufacturer": "Kurt J. Lesker Company",
     "model": "",
-    "serialno": "210862"
+    "serialno": "210862",
+    "reqno": "",
+    "pono": "5A7298P94A",
+    "inventoryno": "604237"
   },
   {
     "sku": "EQU-HEAT-FURN-00",
@@ -437,7 +566,10 @@
     "category": "Thermal",
     "manufacturer": "Thermco Products Corporation",
     "model": "MB-71",
-    "serialno": ""
+    "serialno": "",
+    "reqno": "",
+    "pono": "",
+    "inventoryno": ""
   },
   {
     "sku": "EQU-WET-AHOD-12",
@@ -447,7 +579,10 @@
     "category": "Hood",
     "manufacturer": "",
     "model": "",
-    "serialno": ""
+    "serialno": "",
+    "reqno": "",
+    "pono": "",
+    "inventoryno": ""
   },
   {
     "sku": "EQU-WET-AHOD-13",
@@ -457,7 +592,10 @@
     "category": "Hood",
     "manufacturer": "",
     "model": "",
-    "serialno": ""
+    "serialno": "",
+    "reqno": "",
+    "pono": "",
+    "inventoryno": ""
   },
   {
     "sku": "EQU-WET-SHOD-08",
@@ -467,7 +605,10 @@
     "category": "Hood",
     "manufacturer": "",
     "model": "",
-    "serialno": ""
+    "serialno": "",
+    "reqno": "",
+    "pono": "",
+    "inventoryno": ""
   },
   {
     "sku": "EQU-WET-SHOD-11",
@@ -477,7 +618,10 @@
     "category": "Hood",
     "manufacturer": "",
     "model": "",
-    "serialno": ""
+    "serialno": "",
+    "reqno": "",
+    "pono": "",
+    "inventoryno": ""
   },
   {
     "sku": "EQU-ETCH-CRIE-03",
@@ -487,7 +631,10 @@
     "category": "Etch",
     "manufacturer": "Plasma-Therm",
     "model": "Corial 210IL",
-    "serialno": "195"
+    "serialno": "195",
+    "reqno": "",
+    "pono": "2024C00884",
+    "inventoryno": "A92636"
   },
   {
     "sku": "EQU-ETCH-DSE-01",
@@ -497,7 +644,10 @@
     "category": "Etch",
     "manufacturer": "Plasma-Therm",
     "model": "Versaline DESC PDC",
-    "serialno": "101019203"
+    "serialno": "101019203",
+    "reqno": "",
+    "pono": "2010C00716",
+    "inventoryno": "843829"
   },
   {
     "sku": "EQU-ETCH-DSE-02",
@@ -507,7 +657,10 @@
     "category": "Etch",
     "manufacturer": "Oxford Instruments",
     "model": "PlasmaPro 100 Estrelas",
-    "serialno": "94-220452CH1"
+    "serialno": "94-220452CH1",
+    "reqno": "",
+    "pono": "2024C00931",
+    "inventoryno": "A84948"
   },
   {
     "sku": "EQU-ETCH-PTRI-02",
@@ -517,7 +670,10 @@
     "category": "Etch",
     "manufacturer": "Plasma-Therm",
     "model": "790",
-    "serialno": ""
+    "serialno": "",
+    "reqno": "",
+    "pono": "5B0292P94A",
+    "inventoryno": "606608"
   },
   {
     "sku": "EQU-ETCH-TALE-00",
@@ -527,7 +683,10 @@
     "category": "Etch",
     "manufacturer": "Plasma-Therm",
     "model": "Takachi ICP",
-    "serialno": "PTFL11379"
+    "serialno": "PTFL11379",
+    "reqno": "",
+    "pono": "2024C00813",
+    "inventoryno": "A92632"
   },
   {
     "sku": "EQU-WET-AHOD-14",
@@ -537,7 +696,10 @@
     "category": "Hood",
     "manufacturer": "",
     "model": "",
-    "serialno": ""
+    "serialno": "",
+    "reqno": "",
+    "pono": "",
+    "inventoryno": ""
   },
   {
     "sku": "EQU-WET-AHOD-15",
@@ -547,7 +709,10 @@
     "category": "Hood",
     "manufacturer": "",
     "model": "",
-    "serialno": ""
+    "serialno": "",
+    "reqno": "",
+    "pono": "",
+    "inventoryno": ""
   },
   {
     "sku": "EQU-WET-KHOD-16",
@@ -557,7 +722,10 @@
     "category": "Hood",
     "manufacturer": "",
     "model": "",
-    "serialno": ""
+    "serialno": "",
+    "reqno": "",
+    "pono": "",
+    "inventoryno": ""
   },
   {
     "sku": "EQU-WET-KHOD-18",
@@ -567,7 +735,10 @@
     "category": "Hood",
     "manufacturer": "",
     "model": "",
-    "serialno": ""
+    "serialno": "",
+    "reqno": "",
+    "pono": "",
+    "inventoryno": ""
   },
   {
     "sku": "EQU-WET-SHOD-00",
@@ -577,7 +748,10 @@
     "category": "Hood",
     "manufacturer": "",
     "model": "",
-    "serialno": ""
+    "serialno": "",
+    "reqno": "",
+    "pono": "",
+    "inventoryno": ""
   },
   {
     "sku": "EQU-DEP-CHEV-01",
@@ -587,7 +761,10 @@
     "category": "Deposition",
     "manufacturer": "CHA Industries",
     "model": "SE-1000-RAP",
-    "serialno": "1246-20100"
+    "serialno": "1246-20100",
+    "reqno": "",
+    "pono": "4A1928P93A",
+    "inventoryno": "624748"
   },
   {
     "sku": "EQU-DEP-CHEV-02",
@@ -597,7 +774,10 @@
     "category": "Deposition",
     "manufacturer": "CHA Industries",
     "model": "SEC-1000-RAP",
-    "serialno": "1627-5339"
+    "serialno": "1627-5339",
+    "reqno": "",
+    "pono": "2008C02690",
+    "inventoryno": "833668"
   },
   {
     "sku": "EQU-DEP-CHEV-03",
@@ -607,7 +787,10 @@
     "category": "Deposition",
     "manufacturer": "CHA Industries",
     "model": "CRITERION",
-    "serialno": "1728-9873"
+    "serialno": "1728-9873",
+    "reqno": "",
+    "pono": "2024C00839",
+    "inventoryno": "A92659"
   },
   {
     "sku": "EQU-ETCH-CPDR-00",
@@ -617,7 +800,10 @@
     "category": "Etch",
     "manufacturer": "Tousimis Research Corporation",
     "model": "Autosamdri-931",
-    "serialno": "73013"
+    "serialno": "73013",
+    "reqno": "",
+    "pono": "2023C00458",
+    "inventoryno": "A54936"
   },
   {
     "sku": "EQU-ETCH-XACT-00",
@@ -627,7 +813,10 @@
     "category": "Etch",
     "manufacturer": "KLA Corporation",
     "model": "Xactix e2",
-    "serialno": "EX107"
+    "serialno": "EX107",
+    "reqno": "",
+    "pono": "2021C00756",
+    "inventoryno": "A20135"
   },
   {
     "sku": "EQU-HEAT-RTA-00",
@@ -637,7 +826,10 @@
     "category": "Thermal",
     "manufacturer": "AllWin21 Corporation",
     "model": "AccuThermo AW810M",
-    "serialno": "241065"
+    "serialno": "241065",
+    "reqno": "",
+    "pono": "2024C00876",
+    "inventoryno": "A84937"
   },
   {
     "sku": "EQU-MET-OMSC-01",
@@ -647,7 +839,10 @@
     "category": "Metrology",
     "manufacturer": "Olympus Corporation",
     "model": "BX51M",
-    "serialno": "8B23331"
+    "serialno": "8B23331",
+    "reqno": "",
+    "pono": "",
+    "inventoryno": "843870"
   },
   {
     "sku": "EQU-MET-OMSC-02",
@@ -657,7 +852,10 @@
     "category": "Metrology",
     "manufacturer": "Olympus Corporation",
     "model": "BX51",
-    "serialno": "3A12390"
+    "serialno": "3A12390",
+    "reqno": "",
+    "pono": "2013C00346",
+    "inventoryno": "854694"
   },
   {
     "sku": "EQU-MET-PROF-00",
@@ -667,7 +865,10 @@
     "category": "Metrology",
     "manufacturer": "Bruker",
     "model": "DXR-S",
-    "serialno": "L0447ZL"
+    "serialno": "L0447ZL",
+    "reqno": "",
+    "pono": "2023C00267",
+    "inventoryno": "A58267"
   },
   {
     "sku": "EQU-WET-AHOD-02",
@@ -677,7 +878,10 @@
     "category": "Hood",
     "manufacturer": "",
     "model": "",
-    "serialno": ""
+    "serialno": "",
+    "reqno": "",
+    "pono": "",
+    "inventoryno": ""
   },
   {
     "sku": "EQU-WET-SHOD-05",
@@ -687,7 +891,10 @@
     "category": "Hood",
     "manufacturer": "",
     "model": "",
-    "serialno": ""
+    "serialno": "",
+    "reqno": "",
+    "pono": "",
+    "inventoryno": ""
   },
   {
     "sku": "EQU-DEP-PECV-02",
@@ -697,7 +904,10 @@
     "category": "Deposition",
     "manufacturer": "Plasma-Therm",
     "model": "790 6\" PECVD/RIE MF",
-    "serialno": "PTI-78133F"
+    "serialno": "PTI-78133F",
+    "reqno": "",
+    "pono": "4A6594P93A",
+    "inventoryno": "624759"
   },
   {
     "sku": "EQU-DEP-PECV-03",
@@ -707,7 +917,10 @@
     "category": "Deposition",
     "manufacturer": "Oxford Instruments",
     "model": "PlasmaPro 100 Estrelas",
-    "serialno": "94-220451CH1"
+    "serialno": "94-220451CH1",
+    "reqno": "",
+    "pono": "2024C00912",
+    "inventoryno": "A84947"
   },
   {
     "sku": "EQU-ETCH-CRIE-01",
@@ -717,7 +930,10 @@
     "category": "Etch",
     "manufacturer": "Plasma-Therm",
     "model": "Corial 360I",
-    "serialno": "113"
+    "serialno": "113",
+    "reqno": "",
+    "pono": "2024C00642",
+    "inventoryno": "A92638"
   },
   {
     "sku": "EQU-ETCH-CRIE-02",
@@ -727,7 +943,10 @@
     "category": "Etch",
     "manufacturer": "Plasma-Therm",
     "model": "Corial 210IL",
-    "serialno": "196"
+    "serialno": "196",
+    "reqno": "",
+    "pono": "2024C00884",
+    "inventoryno": "A92637"
   },
   {
     "sku": "EQU-ETCH-OXET-01",
@@ -737,7 +956,10 @@
     "category": "Etch",
     "manufacturer": "Oxford Instruments",
     "model": "80+ RIE",
-    "serialno": "219778"
+    "serialno": "219778",
+    "reqno": "",
+    "pono": "2002C01588",
+    "inventoryno": "751499"
   },
   {
     "sku": "EQU-ETCH-OXET-02",
@@ -747,7 +969,10 @@
     "category": "Etch",
     "manufacturer": "Oxford Instruments",
     "model": "Plasmalab 100 - ICP 380",
-    "serialno": "94-219971"
+    "serialno": "94-219971",
+    "reqno": "",
+    "pono": "2010C00351",
+    "inventoryno": "842661"
   },
   {
     "sku": "EQU-WET-AHOD-06",
@@ -757,7 +982,10 @@
     "category": "Hood",
     "manufacturer": "",
     "model": "",
-    "serialno": ""
+    "serialno": "",
+    "reqno": "",
+    "pono": "",
+    "inventoryno": ""
   },
   {
     "sku": "EQU-WET-SHOD-03",
@@ -767,7 +995,10 @@
     "category": "Hood",
     "manufacturer": "",
     "model": "",
-    "serialno": ""
+    "serialno": "",
+    "reqno": "",
+    "pono": "",
+    "inventoryno": ""
   },
   {
     "sku": "EQU-DEP-ALD-02",
@@ -777,7 +1008,10 @@
     "category": "Deposition",
     "manufacturer": "Cambridge NanoTech",
     "model": "Fiji F200",
-    "serialno": "200030"
+    "serialno": "200030",
+    "reqno": "",
+    "pono": "2011C00988",
+    "inventoryno": "843843"
   },
   {
     "sku": "EQU-HEAT-ANL-01",
@@ -787,7 +1021,10 @@
     "category": "Thermal",
     "manufacturer": "MRL Industries",
     "model": "FURNACE STACK #C-4",
-    "serialno": "65961"
+    "serialno": "65961",
+    "reqno": "",
+    "pono": "4A8237P93A",
+    "inventoryno": "604715"
   },
   {
     "sku": "EQU-HEAT-ANL-02",
@@ -797,7 +1034,10 @@
     "category": "Thermal",
     "manufacturer": "MRL Industries",
     "model": "FURNACE STACK #C-4",
-    "serialno": "65961"
+    "serialno": "65961",
+    "reqno": "",
+    "pono": "4A8237P93A",
+    "inventoryno": "604715"
   },
   {
     "sku": "EQU-HEAT-ANL-03",
@@ -807,7 +1047,10 @@
     "category": "Thermal",
     "manufacturer": "MRL Industries",
     "model": "FURNACE STACK #C-4",
-    "serialno": "65961"
+    "serialno": "65961",
+    "reqno": "",
+    "pono": "4A8237P93A",
+    "inventoryno": "604715"
   },
   {
     "sku": "EQU-HEAT-ANL-04",
@@ -817,7 +1060,10 @@
     "category": "Thermal",
     "manufacturer": "MRL Industries",
     "model": "FURNACE STACK #C-4",
-    "serialno": "65961"
+    "serialno": "65961",
+    "reqno": "",
+    "pono": "4A8237P93A",
+    "inventoryno": "604715"
   },
   {
     "sku": "EQU-HEAT-DIFF-00",
@@ -827,7 +1073,10 @@
     "category": "Thermal",
     "manufacturer": "MRL Industries",
     "model": "FURNACE STACK #C-5",
-    "serialno": "65962"
+    "serialno": "65962",
+    "reqno": "",
+    "pono": "4A8237P93A",
+    "inventoryno": "604714"
   },
   {
     "sku": "EQU-HEAT-LPCV-01",
@@ -837,7 +1086,10 @@
     "category": "Thermal",
     "manufacturer": "MRL Industries",
     "model": "FURNACE STACK #C-5",
-    "serialno": "65962"
+    "serialno": "65962",
+    "reqno": "",
+    "pono": "4A8237P93A",
+    "inventoryno": "604714"
   },
   {
     "sku": "EQU-HEAT-LPCV-02",
@@ -847,7 +1099,10 @@
     "category": "Thermal",
     "manufacturer": "MRL Industries",
     "model": "FURNACE STACK #C-5",
-    "serialno": "65962"
+    "serialno": "65962",
+    "reqno": "",
+    "pono": "4A8237P93A",
+    "inventoryno": "604714"
   },
   {
     "sku": "EQU-HEAT-LPCV-03",
@@ -857,7 +1112,10 @@
     "category": "Thermal",
     "manufacturer": "MRL Industries",
     "model": "FURNACE STACK #C-5",
-    "serialno": "65962"
+    "serialno": "65962",
+    "reqno": "",
+    "pono": "4A8237P93A",
+    "inventoryno": "604714"
   },
   {
     "sku": "EQU-HEAT-TYTN-00",
@@ -867,7 +1125,10 @@
     "category": "Thermal",
     "manufacturer": "Tystar Corporation",
     "model": "MINI-TYTAN 3800",
-    "serialno": "424102-1-S/C"
+    "serialno": "424102-1-S/C",
+    "reqno": "",
+    "pono": "2024C01108",
+    "inventoryno": "A92655"
   },
   {
     "sku": "EQU-MET-ELPS-01",
@@ -877,7 +1138,10 @@
     "category": "Metrology",
     "manufacturer": "J.A. Woollam",
     "model": "M-2000",
-    "serialno": "0606019"
+    "serialno": "0606019",
+    "reqno": "",
+    "pono": "2006C01261",
+    "inventoryno": "806346"
   },
   {
     "sku": "EQU-WET-DHOD-11",
@@ -887,7 +1151,10 @@
     "category": "Hood",
     "manufacturer": "",
     "model": "",
-    "serialno": ""
+    "serialno": "",
+    "reqno": "",
+    "pono": "",
+    "inventoryno": ""
   },
   {
     "sku": "EQU-WET-DHOD-14",
@@ -897,7 +1164,10 @@
     "category": "Hood",
     "manufacturer": "",
     "model": "",
-    "serialno": ""
+    "serialno": "",
+    "reqno": "",
+    "pono": "",
+    "inventoryno": ""
   },
   {
     "sku": "EQU-WET-DHOD-16",
@@ -907,7 +1177,10 @@
     "category": "Hood",
     "manufacturer": "",
     "model": "",
-    "serialno": ""
+    "serialno": "",
+    "reqno": "",
+    "pono": "",
+    "inventoryno": ""
   },
   {
     "sku": "EQU-DEP-ALD-03",
@@ -917,7 +1190,10 @@
     "category": "Deposition",
     "manufacturer": "Oxford Instruments",
     "model": "94-CP1039506",
-    "serialno": "220450CH1"
+    "serialno": "220450CH1",
+    "reqno": "",
+    "pono": "2024C00924",
+    "inventoryno": "A92630"
   },
   {
     "sku": "EQU-DEP-SPUT-04",
@@ -927,7 +1203,10 @@
     "category": "Deposition",
     "manufacturer": "Kurt J. Lesker Company",
     "model": "Dual PRO Line PVD 200",
-    "serialno": "PTN1204792-01"
+    "serialno": "PTN1204792-01",
+    "reqno": "",
+    "pono": "2024C01080",
+    "inventoryno": "A92667"
   },
   {
     "sku": "EQU-DEP-SPUT-05",
@@ -937,7 +1216,10 @@
     "category": "Deposition",
     "manufacturer": "EVATEC",
     "model": "CLN200E",
-    "serialno": "1"
+    "serialno": "1",
+    "reqno": "",
+    "pono": "2024C01015",
+    "inventoryno": "A92654"
   },
   {
     "sku": "EQU-ETCH-IONM-00",
@@ -947,7 +1229,10 @@
     "category": "Etch",
     "manufacturer": "AJA International Inc.",
     "model": "Orion IMS",
-    "serialno": "ATC08-IM-14642"
+    "serialno": "ATC08-IM-14642",
+    "reqno": "",
+    "pono": "2018C00256",
+    "inventoryno": "A20042"
   },
   {
     "sku": "EQU-HEAT-RTP-00",
@@ -957,7 +1242,10 @@
     "category": "Thermal",
     "manufacturer": "AET Thermal",
     "model": "RX6",
-    "serialno": "160"
+    "serialno": "160",
+    "reqno": "",
+    "pono": "",
+    "inventoryno": "624711"
   },
   {
     "sku": "EQU-HEAT-UVOZ-00",
@@ -967,7 +1255,10 @@
     "category": "Thermal",
     "manufacturer": "UVOCS Inc.",
     "model": "T10X10/OES",
-    "serialno": "1135"
+    "serialno": "1135",
+    "reqno": "",
+    "pono": "2011C01207",
+    "inventoryno": "843852"
   },
   {
     "sku": "EQU-HEAT-VOVN-00",
@@ -977,7 +1268,10 @@
     "category": "Thermal",
     "manufacturer": "T-M Vacuum Products Inc.",
     "model": "SS806-14",
-    "serialno": "1M17051101"
+    "serialno": "1M17051101",
+    "reqno": "",
+    "pono": "2008C01679",
+    "inventoryno": "833667"
   },
   {
     "sku": "EQU-MET-ELPS-03",
@@ -987,7 +1281,10 @@
     "category": "Metrology",
     "manufacturer": "J.A. Woollam",
     "model": "IR-VASE Mark II",
-    "serialno": "1240051"
+    "serialno": "1240051",
+    "reqno": "",
+    "pono": "2024C01003",
+    "inventoryno": "A92642"
   },
   {
     "sku": "EQU-MET-XRD-01",
@@ -997,7 +1294,10 @@
     "category": "Metrology",
     "manufacturer": "Rigaku Corporation",
     "model": "SmartLab 9kW",
-    "serialno": "BD67000038-01"
+    "serialno": "BD67000038-01",
+    "reqno": "",
+    "pono": "2017C00646",
+    "inventoryno": "894585"
   },
   {
     "sku": "EQU-MET-XRD-02",
@@ -1007,7 +1307,10 @@
     "category": "Metrology",
     "manufacturer": "Rigaku Corporation",
     "model": "SmartLab",
-    "serialno": "BD74000266-01"
+    "serialno": "BD74000266-01",
+    "reqno": "",
+    "pono": "2024C00972",
+    "inventoryno": "A84978"
   },
   {
     "sku": "EQU-DEP-NIPL-00",
@@ -1017,7 +1320,10 @@
     "category": "Deposition",
     "manufacturer": "Verteq",
     "model": "ST600-42L-FRPP",
-    "serialno": "44821B"
+    "serialno": "44821B",
+    "reqno": "",
+    "pono": "",
+    "inventoryno": "877996"
   },
   {
     "sku": "EQU-DEP-NIPL-01",
@@ -1027,7 +1333,10 @@
     "category": "Deposition",
     "manufacturer": "Verteq",
     "model": "ST600-42L",
-    "serialno": "47175C"
+    "serialno": "47175C",
+    "reqno": "",
+    "pono": "",
+    "inventoryno": "877998"
   },
   {
     "sku": "EQU-DEP-NIPL-02",
@@ -1037,7 +1346,10 @@
     "category": "Deposition",
     "manufacturer": "Leatherwood Plastics",
     "model": "LPE115-PP",
-    "serialno": "8297-0398"
+    "serialno": "8297-0398",
+    "reqno": "",
+    "pono": "",
+    "inventoryno": "877997"
   },
   {
     "sku": "EQU-FAB-LASE-00",
@@ -1047,7 +1359,10 @@
     "category": "Fabrication",
     "manufacturer": "Epilog Corporation",
     "model": "8000 Laser System",
-    "serialno": "8030-1195102412FMR"
+    "serialno": "8030-1195102412FMR",
+    "reqno": "",
+    "pono": "",
+    "inventoryno": ""
   },
   {
     "sku": "EQU-PAC-DICE-00",
@@ -1057,7 +1372,10 @@
     "category": "Packaging",
     "manufacturer": "Advanced Dicing Technologies Ltd",
     "model": "7900 DUO",
-    "serialno": "590263"
+    "serialno": "590263",
+    "reqno": "",
+    "pono": "2024C01002",
+    "inventoryno": "A92643"
   },
   {
     "sku": "EQU-CHAR-PROB-01",
@@ -1067,7 +1385,10 @@
     "category": "Characterization",
     "manufacturer": "FormFactor Inc.",
     "model": "ASP200-TESLA200-SA-PA",
-    "serialno": "2448299"
+    "serialno": "2448299",
+    "reqno": "",
+    "pono": "2024C01143",
+    "inventoryno": "A84980"
   },
   {
     "sku": "EQU-CHAR-PROB-02",
@@ -1077,7 +1398,10 @@
     "category": "Characterization",
     "manufacturer": "Cascade Microtech",
     "model": "SUMMIT 11000B-AP",
-    "serialno": "1448671009"
+    "serialno": "1448671009",
+    "reqno": "",
+    "pono": "2011C00072",
+    "inventoryno": "843819"
   },
   {
     "sku": "EQU-CHAR-PROB-03",
@@ -1087,7 +1411,10 @@
     "category": "Characterization",
     "manufacturer": "Lake Shore Cryotronics Inc.",
     "model": "FWPX",
-    "serialno": "336A07V"
+    "serialno": "336A07V",
+    "reqno": "",
+    "pono": "2010C00536",
+    "inventoryno": "843818"
   },
   {
     "sku": "EQU-CHAR-PROB-04",
@@ -1097,7 +1424,10 @@
     "category": "Characterization",
     "manufacturer": "Cascade Microtech",
     "model": "SUMMIT 11751B",
-    "serialno": "670170510"
+    "serialno": "670170510",
+    "reqno": "",
+    "pono": "2005C01977",
+    "inventoryno": "806319"
   },
   {
     "sku": "EQU-CHAR-HALL-00",
@@ -1107,7 +1437,10 @@
     "category": "Characterization",
     "manufacturer": "Lake Shore Cryotronics Inc.",
     "model": "HMS-TT-MAN",
-    "serialno": "A13VP"
+    "serialno": "A13VP",
+    "reqno": "",
+    "pono": "2024C00608",
+    "inventoryno": "A84898"
   },
   {
     "sku": "EQU-MET-RAM-00",
@@ -1117,7 +1450,10 @@
     "category": "Metrology",
     "manufacturer": "Renishaw",
     "model": "inVia",
-    "serialno": "05Q903"
+    "serialno": "05Q903",
+    "reqno": "",
+    "pono": "2010C01441",
+    "inventoryno": "843820"
   },
   {
     "sku": "EQU-PAC-WBND-01",
@@ -1127,7 +1463,10 @@
     "category": "Packaging",
     "manufacturer": "Kulicke and Soffa Industries Inc",
     "model": "4522",
-    "serialno": "4522-0147"
+    "serialno": "4522-0147",
+    "reqno": "",
+    "pono": "2012C01708",
+    "inventoryno": "854675"
   },
   {
     "sku": "EQU-PAC-WBND-02",
@@ -1137,7 +1476,10 @@
     "category": "Packaging",
     "manufacturer": "West Bond Inc.",
     "model": "7476D-79",
-    "serialno": "23641"
+    "serialno": "23641",
+    "reqno": "",
+    "pono": "2024C00594",
+    "inventoryno": "A84897"
   },
   {
     "sku": "EQU-PAC-WBND-03",
@@ -1147,6 +1489,9 @@
     "category": "Packaging",
     "manufacturer": "West Bond Inc.",
     "model": "7700D-79",
-    "serialno": "23642"
+    "serialno": "23642",
+    "reqno": "",
+    "pono": "2024C00596",
+    "inventoryno": "A84896"
   }
 ]
